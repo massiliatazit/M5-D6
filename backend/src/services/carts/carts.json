@@ -1,1 +1,29 @@
-[{"_id":"4p67557wskiopbuss","ownerId":"5f6b1991df8544001716080i","name":"Riccardo","surname":"Gulin","products":[{"name":"dsfgh","description":"dxgfch","brand":"dxfcb","price":"5","category":"book","_id":"hoteu8znkikhgs40","createdAt":"2020-12-11T16:27:03.887Z","imageUrl":""}],"total":"05"},{"_id":"4p6755dokioprsh8","ownerId":"5f6b1991df854400171608uuui","name":"Luca","surname":"pallll","products":[],"total":0}]
+[
+  {
+    "_id": "4p67557wskiopbuss",
+    "ownerId": "5f6b1991df8544001716080i",
+    "name": "Riccardo",
+    "surname": "Gulin",
+    "products": [
+      {
+        "name": "dsfgh",
+        "description": "dxgfch",
+        "brand": "dxfcb",
+        "price": "5",
+        "category": "book",
+        "_id": "hoteu8znkikhgs40",
+        "createdAt": "2020-12-11T16:27:03.887Z",
+        "imageUrl": ""
+      }
+    ],
+    "total": "05"
+  },
+  {
+    "_id": "4p6755dokioprsh8",
+    "ownerId": "5f6b1991df854400171608uuui",
+    "name": "Luca",
+    "surname": "pallll",
+    "products": [],
+    "total": 0
+  }
+]
